@@ -6,6 +6,10 @@ public class HealthController {
 	}
   public String getString()
   {
-     return "System Updated"
+     return "System Updated";
+  }
+	public int getint()
+  {
+     return 2;
   }
 }
