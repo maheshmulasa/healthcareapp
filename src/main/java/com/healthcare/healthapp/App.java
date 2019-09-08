@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public static void main33()
+    {
+        System.out.println( "Hello World!333" );
+    }
+    
 }
